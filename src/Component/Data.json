@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "name":"Obama",
+        "tel":"0337152101",
+        "permission":1
+    },
+    {
+        "id":"2",
+        "name":"Iron Man",
+        "tel":"0337153401",
+        "permission":2
+    },
+    {
+        "id":"3",
+        "name":"Patman",
+        "tel":"0337152101",
+        "permission":3
+    },
+    {
+        "id":"4",
+        "name":"Senna",
+        "tel":"0337152101",
+        "permission":3
+    },
+    {
+        "id":"5",
+        "name":"Obama",
+        "tel":"0337152101",
+        "permission":3
+    },
+    {
+        "id":"6",
+        "name":"Iron Man",
+        "tel":"0337153401",
+        "permission":3
+    }
+]
